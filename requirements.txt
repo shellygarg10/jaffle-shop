@@ -2,7 +2,7 @@
 #    uv pip compile requirements.in -o requirements.txt
 
 dbt-core==1.11.7
-dbt-duckdb==1.10.1
+dbt-postgres
 
 certifi==2024.2.2
     # via requests
